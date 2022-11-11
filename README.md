@@ -1,5 +1,5 @@
 # sources
-Collect good infomation sources for distributed system and database. Any suggestions please make an issue or pr.
+Collect open, free, high quality infomation sources for distributed system and database. Any suggestions please make an issue or pr.
 
 
 ## 博客
@@ -20,6 +20,7 @@ Collect good infomation sources for distributed system and database. Any suggest
 - Alex DeBrie, DynamoDB, serverless, cloud-native, https://www.alexdebrie.com/
 - fuzhe, 系统论文笔记, https://fuzhe1989.github.io/archives/
 - Ying'blog, 大数据,  https://izualzhy.cn/
+- OpenACID, https://blog.openacid.com/
 - 木鸟杂记, 分布式系统、数据库、存储, https://www.qtmuniao.com/
 
 
@@ -27,7 +28,6 @@ Collect good infomation sources for distributed system and database. Any suggest
 - [henry liang](https://www.zhihu.com/people/yaoling-lc)
 - [BohuTANG](https://www.zhihu.com/people/bohutang)
 - [Ed Huang](https://www.zhihu.com/people/huang-dong-xu)
-- [drdr xp](https://www.zhihu.com/people/drdr-xp)
 - [fleuria](https://www.zhihu.com/people/fleurer)
 - [codedump](https://www.zhihu.com/people/codedump)
 - [Bowen Xiao](https://www.zhihu.com/people/wo-he-suan-nai-bu-tian-gai-85)
