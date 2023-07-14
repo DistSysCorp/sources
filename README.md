@@ -22,6 +22,20 @@ Collect open, free, high quality infomation sources for distributed system and d
 - Ying'blog, 大数据,  https://izualzhy.cn/
 - OpenACID, https://blog.openacid.com/
 - 木鸟杂记, 分布式系统、数据库、存储, https://www.qtmuniao.com/
+- Braid, 分布式系统、数据库, https://critical27.github.io/
+- 谭巍的博客, Rust、C++、数据库, http://tanweime.com/
+- database architectures, https://databasearchitects.blogspot.com/
+- Xin Ren, Distributed System\Data Processsing\Database, https://keypointt.com/
+- LoopJump, 数据存储、计算, https://loopjump.com/
+- Kai Lu, 存储, https://emperorlu.github.io/
+- Unmra 的一些论文, 数据库, https://umbra-db.com/#publications
+- code0xff, 数据库、大数据, https://code0xff.org/
+- Kikimo, 分布式系统、Raft, https://coderatwork.cn/
+- frankmcsherry, Database/Materialize, https://github.com/frankmcsherry/blog
+- Tao's blog, 数据库、ClickHouse, https://aaaaaaron.github.io/
+- justinjaffray, database\distributed system, https://justinjaffray.com/posts/
+- More than code, 存储, http://heavensheep.xyz/
+- Eric Fu, 数据库, https://ericfu.me/
 
 
 ## 知乎
