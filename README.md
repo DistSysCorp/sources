@@ -36,6 +36,7 @@ Collect open, free, high quality infomation sources for distributed system and d
 - justinjaffray, database\distributed system, https://justinjaffray.com/posts/
 - More than code, 存储, http://heavensheep.xyz/
 - Eric Fu, 数据库, https://ericfu.me/
+- Victor.Chu, 大数据, https://blog.victorchu.info/
 
 
 ## 知乎
