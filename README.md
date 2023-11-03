@@ -37,6 +37,7 @@ Collect open, free, high quality infomation sources for distributed system and d
 - More than code, 存储, http://heavensheep.xyz/
 - Eric Fu, 数据库, https://ericfu.me/
 - Victor.Chu, 大数据, https://blog.victorchu.info/
+- drdr.xp, 分布式、Paxos, http://drmingdrmer.github.io/
 
 
 ## 知乎
